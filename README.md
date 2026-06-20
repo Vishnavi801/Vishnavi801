@@ -1,16 +1,27 @@
 ## Hi there 👋
+## Linux Administrator | AWS Certified | DevOps Enthusiast
+### Skills
+- Linux (RHEL)
+- AWS
+- Docker
+- Kubernetes
+- Jenkins
+- Terraform
+- Git & GitHub
+- ArgoCD
+- Prometheus
+- Grafana
 
-<!--
-**Vishnavi801/Vishnavi801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Certifications
+- RH124 and RH134 Course completion from Redhat
+- FLM DEV-SEC-OPS Course
+- AWS Cloud Practitioner
+- AI-900
 
-Here are some ideas to get you started:
+### Current Focus
+- Kubernetes
+- GitOps with ArgoCD
+- Terraform
+- CI/CD Pipelines
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
