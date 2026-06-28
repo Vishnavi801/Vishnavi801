@@ -41,6 +41,6 @@ Location: Hyderabad, India
 LinkedIn:
 https://linkedin.com/in/gurram-lakshmi-vishnavi
 
-Email:lakshmishnavig@gmail.con
+Email:lakshmishnavig@gmail.com
 
 
