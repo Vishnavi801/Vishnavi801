@@ -1,6 +1,6 @@
 ##  Hi, I'm Vishnavi 👋
 ## About Me
-Linux System Administrator with around 3 years of experience managing RHEL environments and supporting enterprise infrastructure. AWS Certified with hands-on experience in Docker, Kubernetes, Jenkins, Terraform, GitHub, ArgoCD, Prometheus, and Grafana. Passionate about automation, CI/CD, cloud technologies, and DevOps practices.
+Linux System Administrator with 2.5+ years of experience managing Red Hat Enterprise Linux (RHEL) servers and supporting enterprise infrastructure. AWS Certified Solutions Architect – Associate with hands-on experience in Terraform, Docker, Kubernetes, Jenkins, Git, Argo CD, Prometheus, and Grafana. Passionate about Infrastructure as Code (IaC), CI/CD, automation, cloud technologies, and DevOps best practices.
 ## Linux Administrator | AWS Certified | DevOps Enthusiast
 ### Skills
 - Linux (RHEL)
