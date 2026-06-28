@@ -13,6 +13,16 @@ Linux System Administrator with 2.5+ years of experience managing Red Hat Enterp
 - ArgoCD
 - Prometheus
 - Grafana
+### Featured Projects
+# Terraform AWS Infrastructure
+Provisioned VPC, Subnet, Internet Gateway, Route Table, Security Group, and EC2.
+Automated Apache installation using User Data.
+# Microservices Deployment
+Dockerized application.
+Kubernetes deployment.
+Jenkins CI/CD.
+# Argo CD GitOps
+Automated Kubernetes deployments using GitOps.
 
 ### Certifications
 - RH124 and RH134 Course completion from Redhat
@@ -25,5 +35,12 @@ Linux System Administrator with 2.5+ years of experience managing Red Hat Enterp
 - GitOps with ArgoCD
 - Terraform
 - CI/CD Pipelines
+
+Location: Hyderabad, India
+
+LinkedIn:
+https://linkedin.com/in/gurram-lakshmi-vishnavi
+
+Email:lakshmishnavig@gmail.con
 
 
